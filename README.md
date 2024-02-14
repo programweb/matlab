@@ -1,7 +1,7 @@
 # matlab
 
 
-I did earlier matlab code that was more involved with genetics; however, I do not have a licence.  So, this is just doing some quick demos using an available online Matlab code editor and  tricking it to display graphs.
+I did earlier matlab code that was more involved with genetics; however, I do not have a license.  So, this is just doing some quick demos using an available online Matlab code editor and  tricking it to display graphs.
 &nbsp;
 
 I apologize for not having more scientific data feeding into these examples; but, I have done that.
